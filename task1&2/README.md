@@ -4,6 +4,7 @@
 
 #### i Logic Used
 
+*** In task1.ipynb ***
 1. We define a function `is_comment` that checks if a given line starts with the `#` symbol, denoting it's a comment in Python.
 2. We strip any leading or trailing white spaces from the line using the `strip()` method.
 3. We use the `startswith()` method to check if the line starts with `#`.
