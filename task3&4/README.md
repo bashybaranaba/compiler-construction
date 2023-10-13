@@ -7,6 +7,6 @@ In this task we create a program that constructs the LL (1) table for a given CF
 ### Task 4 (Bonus Task)
 
 In this task we:
-1. show how a parser is generated 
+1. Show how a parser is generated 
 2. Write a program to implement operator precedence parsing.
-Submission Instructions
+
