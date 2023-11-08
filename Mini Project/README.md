@@ -70,9 +70,6 @@ Perform basic arithmetic operations:
 jumla = moja + mbili;
  ```
 
-### Comments
-Currently, comments are not supported in this language version.
-
 ## Example Program
 
 Here's a sample program that adds two numbers and prints the result:
@@ -85,11 +82,3 @@ kazi jumuisha(x, y) {
 
 jumuisha(1, 2);
  ```
-
-## Contributing
-
-Contributions to this project are welcome. Please fork the repository, add your contribution, and submit a pull request.
-
-## License
-
-This project is released under the MIT License. See the [LICENSE](LICENSE.md) file for details.
