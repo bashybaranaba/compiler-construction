@@ -94,9 +94,6 @@ kama(moja < mbili & neno @ "neno"){
 }
  ```
 
-### Comments
-Currently, comments are not supported in this language version.
-
 ## Example Program
 
 This example program demonstrates variables, functions, print statements, and conditional logic:
